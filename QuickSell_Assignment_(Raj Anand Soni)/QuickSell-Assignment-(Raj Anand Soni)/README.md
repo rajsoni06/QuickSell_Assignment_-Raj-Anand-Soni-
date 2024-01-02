@@ -12,8 +12,12 @@ Grouping - User
 
 Grouping - Status
 
-Interactive Kanban Board https://github.com/rajsoni06/QuickSell_Assignment_-Raj-Anand-Soni-/assets/113697967/ee1a1539-0fbb-4e11-b515-cf7d6a92add1
+##Video
+
+https://github.com/rajsoni06/QuickSell_Assignment_-Raj-Anand-Soni-/assets/113697967/61ed8bab-1ef8-4216-b6d9-3e01111cd532
 
 Interactive Kanban Board
+
+
 
 
