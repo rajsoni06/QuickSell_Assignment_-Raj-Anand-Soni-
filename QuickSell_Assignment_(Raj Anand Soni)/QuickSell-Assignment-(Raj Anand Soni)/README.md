@@ -1,11 +1,15 @@
-## Project View
+# QuickSell_Assignment_(Raj_Anand_Soni)
 
+![Screenshot 2024-01-02 200931](https://github.com/rajsoni06/QuickSell_Assignment_-Raj-Anand-Soni-/assets/113697967/cdc25570-0e2c-4216-a063-46e31b81832b)
 
-<img width="893" alt="Screenshot 2023-12-09 115928" src="https://github.com/vineethpandu/QuickSell-Ass/assets/80325182/a71ece95-a278-4eb6-9ff8-1d8378d694c8">
-<img width="806" alt="image" src="https://github.com/vineethpandu/QuickSell-Ass/assets/80325182/da1e5ebf-caf7-4ca2-a1ac-2ea244609bbf">
+Grouping - Priority
 
+![Screenshot 2024-01-02 201008](https://github.com/rajsoni06/QuickSell_Assignment_-Raj-Anand-Soni-/assets/113697967/523d4466-f98e-4b8c-adbb-8f8baac87aa6)
 
-https://github.com/vineethpandu/QuickSell-Ass/assets/80325182/d4cb5923-809f-477a-a7a9-d274feaa9876
+Grouping - User
 
-<a></a>
+![Screenshot 2024-01-02 201033](https://github.com/rajsoni06/QuickSell_Assignment_-Raj-Anand-Soni-/assets/113697967/ceda157d-f861-46eb-810a-bd7063334417)
+
+Grouping - Status
+
 
