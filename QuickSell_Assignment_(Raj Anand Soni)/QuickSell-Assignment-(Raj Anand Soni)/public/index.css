@@ -1,0 +1,19 @@
+/* Add this at the end of your current styles */
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Semi-transparent black background */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.container.text-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
