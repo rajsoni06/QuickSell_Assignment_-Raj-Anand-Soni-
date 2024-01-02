@@ -8,4 +8,8 @@ Grouping - Priority
 
 Grouping - User
 
+![Screenshot 2024-01-02 201033](https://github.com/rajsoni06/QuickSell_Assignment_-Raj-Anand-Soni-/assets/113697967/ceda157d-f861-46eb-810a-bd7063334417)
+
+Grouping - Status
+
 
